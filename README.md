@@ -2,7 +2,7 @@
 A Script Hub for Xeno
 
 ## Current Supported Games
-- (Shrimp Game)[https://www.roblox.com/games/7606564092/Shrimp-Game]
+- [Shrimp Game](https://www.roblox.com/games/7606564092/Shrimp-Game)
 - Universal (For Any/Other Game)
 <br/>
 
