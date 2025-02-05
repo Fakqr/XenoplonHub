@@ -3,6 +3,9 @@
 A Script Hub for Xeno
 <br/>
 
+## Information
+This is a script I am working on which I am adding more to everyday!
+
 ## Currently Supported Games
 - [Shrimp Game](https://www.roblox.com/games/7606564092/Shrimp-Game)
 - [Prison Life](https://www.roblox.com/games/155615604/Prison-Life)
