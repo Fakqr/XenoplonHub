@@ -1,10 +1,12 @@
 # XenoplonHub
-### V0.0.1
+### V0.0.2
 A Script Hub for Xeno
 <br/>
 
 ## Currently Supported Games
 - [Shrimp Game](https://www.roblox.com/games/7606564092/Shrimp-Game)
+- [Prison Life](https://www.roblox.com/games/155615604/Prison-Life)
+- [Fisch](https://www.roblox.com/games/16732694052/Fisch)
 - Universal (For Any/Other Game)
 <br/>
 
